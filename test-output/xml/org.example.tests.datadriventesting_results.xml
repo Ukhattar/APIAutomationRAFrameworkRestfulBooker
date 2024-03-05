@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRAFramework"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.019">
+    <properties></properties>
+
+
+
+            <testcase
+                name="ddTC1"
+                time="0.001"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+            <testcase
+                name="ddTC1"
+                time="0.008"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+            <testcase
+                name="ddTC1"
+                time="0.000"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+            <testcase
+                name="ddTC1"
+                time="0.001"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+            <testcase
+                name="ddTC1"
+                time="0.002"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+            <testcase
+                name="ddTC1"
+                time="0.002"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+            <testcase
+                name="ddTC1"
+                time="0.001"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+            <testcase
+                name="ddTC1"
+                time="0.001"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+            <testcase
+                name="ddTC1"
+                time="0.001"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+            <testcase
+                name="ddTC1"
+                time="0.002"
+                classname="org.example.tests.datadriventesting">
+            </testcase>
+</testsuite>
