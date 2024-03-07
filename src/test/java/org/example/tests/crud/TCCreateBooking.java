@@ -1,5 +1,9 @@
 package org.example.tests.crud;
 
+import io.qameta.allure.Description;
+import io.qameta.allure.Owner;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.response.Response;
@@ -17,7 +21,11 @@ public class TCCreateBooking extends Basetest {
     //URI
     //Header
 
+
     @Test
+    @Owner("Urja Khattar")
+    @Severity(SeverityLevel.NORMAL)
+    @Description("TC #1: Verify that the booking is created successfully")
     public void testcreatebooking(){
 
         requestSpecification.basePath(APIConstants.updateandcreatebookingurl);
@@ -39,9 +47,12 @@ public class TCCreateBooking extends Basetest {
 
         //TestNg assertion
         assertActions.verifyStatusCode(response);
+        System.out.println(bookingresponse.getBookingid());
+        System.out.println("Get token -> " + gettoken());
 
 
     }
+
 
 
 

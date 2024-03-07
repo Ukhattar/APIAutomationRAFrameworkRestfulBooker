@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/cci/IdeaProjects/APIAutomationRAFramework/src/test/java/org/example/tests/Integration/TC_Integration.java"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.206">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getbooking"
+                time="0.022"
+                classname="org.example.tests.Integration.TC_Integration">
+            </testcase>
+            <testcase
+                name="deletebooking"
+                time="1.638"
+                classname="org.example.tests.Integration.TC_Integration">
+            </testcase>
+            <testcase
+                name="createBookingid"
+                time="5.898"
+                classname="org.example.tests.Integration.TC_Integration">
+            </testcase>
+            <testcase
+                name="updatebookingtest"
+                time="1.648"
+                classname="org.example.tests.Integration.TC_Integration">
+            </testcase>
+</testsuite>

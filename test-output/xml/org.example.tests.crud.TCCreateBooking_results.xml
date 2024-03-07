@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="C:/Users/cci/IdeaProjects/APIAutomationRAFramework/src/test/java/org/example/tests/crud/TCCreateBooking.java"
+<testsuite name="APIAutomationRAFramework"
            tests="1"
            failures="0"
            errors="0"
            skipped="0"
-           time="4.178">
+           time="4.888">
     <properties></properties>
 
 
 
             <testcase
                 name="testcreatebooking"
-                time="4.178"
+                time="4.888"
                 classname="org.example.tests.crud.TCCreateBooking">
             </testcase>
 </testsuite>
